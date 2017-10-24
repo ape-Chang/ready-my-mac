@@ -15,4 +15,4 @@ Just follow the instrunction in [this page](https://github.com/robbyrussell/oh-m
 ## homebrew
 Follow the instruction in [this page](https://brew.sh/). A few points you may pay attention to:
 1. make sure `/usr/local/bin` is the first entry of `${PATH}`. commands managed by homebrew is preferred.
-2. 
+2. refer to [utils.brew]() for utilities must be installed, and install them.
